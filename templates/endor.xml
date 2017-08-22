@@ -1,6 +1,6 @@
 <templateSet group="endor">
   <template name="call" value="$NAME$($SELECTION$)$END$" description="Surround with call" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
