@@ -2,7 +2,9 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="38760" />
     <option name="COMPILE_SERVER_ID" value="2b1105bd-46c4-4026-99c7-0ad3ae8bede0" />
+    <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="300" />
+    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
 </application>
